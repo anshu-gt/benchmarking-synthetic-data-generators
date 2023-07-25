@@ -1,0 +1,11 @@
+,39, State-gov, 77516, Bachelors, 13, Never-married, Adm-clerical, Not-in-family, White, Male, 2174, 0, 40, United-States, <=50K
+0,53, Self-emp-not-inc,60307, Masters,9, Divorced, Exec-managerial, Husband, White, Female,12235,0,75, United-States, <=50K
+1,53, Private,290912, 9th,9, Never-married, Prof-specialty, Not-in-family, White, Male,652,0,14, Cuba, <=50K
+2,49, Private,45781, 11th,14, Divorced, Handlers-cleaners, Not-in-family, White, Female,1137,0,69, United-States, >50K
+3,53, Self-emp-not-inc,45781, 9th,10, Married-spouse-absent, Exec-managerial, Husband, Black, Female,2778,0,45, Jamaica, >50K
+4,51, Self-emp-not-inc,271949, Masters,14, Never-married, Exec-managerial, Husband, White, Male,0,0,33, Jamaica, >50K
+5,52, Self-emp-not-inc,228030, 11th,11, Married-spouse-absent, Handlers-cleaners, Not-in-family, Black, Female,0,0,34, United-States, <=50K
+6,45, Private,338140, 9th,5, Divorced, Prof-specialty, Wife, White, Female,1514,0,18, United-States, >50K
+7,38, Self-emp-not-inc,46742, Some-college,14, Married-spouse-absent, Exec-managerial, Husband, White, Female,0,0,78, Jamaica, <=50K
+8,28, Private,135628, 9th,8, Never-married, Prof-specialty, Husband, White, Male,0,0,42, Cuba, <=50K
+9,35, Private,45781, HS-grad,6, Married-civ-spouse, Handlers-cleaners, Husband, White, Female,14084,0,44, Cuba, <=50K
